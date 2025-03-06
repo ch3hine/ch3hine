@@ -4,7 +4,7 @@
 
 ###
 
-<h5 align="left">🌯 Burritos</h5>
+<h4 align="left">🌯 Currently building my own (minimalist) shell </h4>
 
 ###
 
