@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="left">🔨Tech Stack:</h1>
+<h3 align="left">🔨Tech Stack:</h3>
 
 ###
 
