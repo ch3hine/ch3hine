@@ -4,7 +4,9 @@
 
 ###
 
-<h4 align="left">🌯 Currently building my own (minimalist) shell </h4>
+<h3 align="center">🌯🌯🌯</h3>
+<!--<h4 align="left">🌯 Currently building my own (minimalist) shell </h4>!-->
+
 
 ###
 
